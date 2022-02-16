@@ -1,0 +1,13 @@
+{
+  "name": "qr-code",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "sass": "sass --watch ./styles/style.scss:./styles/style.css",
+    "scss": "node-sass --watch styles -o styles"
+  },
+  "dependencies": {
+    "node-sass": "^7.0.1"
+  }
+}
