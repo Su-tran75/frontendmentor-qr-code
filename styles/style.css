@@ -27,6 +27,7 @@ body {
   border-radius: 1.8rem;
   padding: 1.5rem;
   padding-bottom: 4rem;
+  box-shadow: 0 1rem 1rem 1rem rgba(0, 0, 0, 0.05), 0 1rem 2rem 1rem rgba(0, 0, 0, 0.05);
 }
 .container .card .hero {
   width: 100%;
